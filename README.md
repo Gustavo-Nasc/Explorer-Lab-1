@@ -29,6 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript e JSON
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
+
+## ⚙ Ferramentas e Dependências
 - [iMask](https://imask.js.org)
 
 ## 💻 Projeto
@@ -41,7 +43,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📑 Material Complementar
 
-Você pode visualizar o [Notion](https://www.notion.so/pt-br) dessa aplicação por meio [desse link]().
+Você pode visualizar o [Notion](https://www.notion.so/pt-br) dessa aplicação por meio [desse link](https://efficient-sloth-d85.notion.site/Explorer-Lab-3c5610edf42c4c09be70d9fc8837055e).
 
 
 ## 💻 Acesso o Projeto Local
