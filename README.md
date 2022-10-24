@@ -42,3 +42,31 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## 📑 Material Complementar
 
 Você pode visualizar o [Notion](https://www.notion.so/pt-br) dessa aplicação por meio [desse link]().
+
+
+## 💻 Acesso o Projeto Local
+
+### ✅ Requisitos
+Antes de tudo, você precisa ter o [Git](https://git-scm.com/) e o [Node.js](https://nodejs.org/en/) instalados.
+
+### 🏁 Começo
+```bash
+# Clone o projeto
+git clone https://github.com/Gustavo-Nasc/Explorer-Lab-1
+
+# Acesse a pasta do projeto
+cd Explorer-Lab-1/
+
+# Instale as dependências
+npm install
+# ou
+yarn
+
+# Execute o projeto (Em ambiente de desenvolvimento)
+npm run dev
+# ou
+yarn dev
+
+# O servidor será inicializado e poderá ser acessado pela porta 5173 no localhost
+# localhost:5173
+```
