@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img alt="rocketpay" src=".github/project.png" width="80%">
+  <img alt="rocketpay" src=".github/preview.png" width="80%">
 </div>
 
 ## 🚀 Tecnologias
